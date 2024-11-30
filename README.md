@@ -1149,8 +1149,8 @@ body {
 
 ## OUTPUT:
 ![alt text](dharsheni/restapp/static/HOME.png)
-![alt text](dharsheni/restapp/static/ABOUT.png)
 ![alt text](dharsheni/restapp/static/CATEGORY.png)
+![alt text](dharsheni/restapp/static/ABOUT.png)
 ![alt text](dharsheni/restapp/static/MENU.png)
 ![alt text](dharsheni/restapp/static/OPEN.png)
 ![alt text](dharsheni/restapp/static/CONTACT.png)
