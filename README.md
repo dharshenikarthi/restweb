@@ -1148,14 +1148,14 @@ body {
 ```
 
 ## OUTPUT:
-![alt text](dharsheni/restapp/static/HOME.png)
-![alt text](dharsheni/restapp/static/CATEGORY.png)
-![alt text](dharsheni/restapp/static/ABOUT.png)
-![alt text](dharsheni/restapp/static/MENU.png)
-![alt text](dharsheni/restapp/static/OPEN.png)
-![alt text](dharsheni/restapp/static/CONTACT.png)
-![alt text](dharsheni/restapp/static/REVIEWS.png)
-![alt text](dharsheni/restapp/static/ADMINISTRATION.png)
+![alt text](HOME.png)
+![alt text](MENU.png)
+![alt text](ABOUT.png)
+![alt text](CATEGORY.png)
+![alt text](OPEN.png)
+![alt text](CONTACT.png)
+![alt text](REVIEWS.png)
+![alt text](ADMINISTRATION.png)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
